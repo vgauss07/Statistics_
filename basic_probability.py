@@ -1,5 +1,5 @@
 ## Calculating probability of events
-##Frequentist Approach
+## Frequentist Approach
 
 # Sample Space
 numOfCards = 52
